@@ -42,4 +42,4 @@ DexMerger.merge(
 )
 ```
 
-View [this file](https://github.com/PranavPurwar/D8Merger/blob/main/src/main/kotlin/dev/pranav/d8/merger/DexMerger.kt#L13) for information about the rest of available options.
+View [this file](https://github.com/PranavPurwar/D8Merger/blob/9c2f00ba3f2585d58b4ffc0004d32fa2f68487a1/src/main/kotlin/dev/pranav/d8/merger/DexMerger.kt#L1) for information about the rest of available options.
